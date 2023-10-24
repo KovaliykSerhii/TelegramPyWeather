@@ -10,7 +10,18 @@ pip install  to install it.
 ```bash
 pip install git+https://github.com/KovaliykSerhii/TelegramPyWeather
 ```
+## Usage
 
+```python
+#config.py
+
+# change this with your token
+open_weather_token = "TOKEN"
+tg_bot_token = "TOKEN"
+
+
+
+```
 ## What's in there
 Python
 openweatherapi
