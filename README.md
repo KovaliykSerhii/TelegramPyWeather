@@ -11,6 +11,10 @@ pip install  to install it.
 pip install git+https://github.com/KovaliykSerhii/TelegramPyWeather
 ```
 
+## What's in there
+Python
+openweatherapi
+aiogram
 
 
 ## Contributing
